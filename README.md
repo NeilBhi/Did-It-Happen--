@@ -4,7 +4,7 @@
 
 ## Industry of Focus: Insurance
 
-### What is Insurance?
+## What is Insurance?
 A contract in which an individual or entity pays an insurance company in exchange for financial protection or reimbursement of losses resulting from a covered event.
 How does it work?
 The insurance company takes the risk of the insured person and for such “risk management,” cost is required for an insurance company.
